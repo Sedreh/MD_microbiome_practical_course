@@ -1,1 +1,2 @@
-# MD_microbiome_practical_course
+# microbiome-course
+
